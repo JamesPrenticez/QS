@@ -30,15 +30,19 @@ background-image: url('./img/textures/inflicted.png');
 
 h1 {
     font-family: 'Eagle Lake', cursive;    
-    font-size: 4em;
+    font-size: 2em;
+    line-height: 1.5em;
     margin: 0px;
+    padding: 10px 0px 5px 0px;
 }
 
 h2 {
     font-family: 'Eagle Lake', cursive;  
-    font-size: 3em;
+    font-size: 1em;
+    line-height: 1em;
     margin: 0px;
     color: var(--gold);
+    padding: 5px 0px 10px 0px;
 }
 
 /* h3 {
@@ -82,9 +86,8 @@ a {
 }
 
 /* -------------------- Logo -------------------- */
-.title {
+.centre {
 text-align: center;
-padding: 20px 0px 20px 0px;
 } 
 
 /* -------------------- Nav Bar-------------------- */
